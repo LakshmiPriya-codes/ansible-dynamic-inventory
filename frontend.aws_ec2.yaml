@@ -4,5 +4,5 @@ regions:
 - us-east-1
 
 hostsnames:
-   - ip-address   
+ - ip-address   
     
